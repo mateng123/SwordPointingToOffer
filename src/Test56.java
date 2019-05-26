@@ -1,4 +1,4 @@
-public class Test {
+public class Test56 {
     public ListNode deleteDuplication(ListNode pHead)
     {
         if(pHead==null||pHead.next==null){
